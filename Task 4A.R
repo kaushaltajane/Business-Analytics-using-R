@@ -1,3 +1,5 @@
+#Name bottom 5 LineItems based on average Price
+
 mean(X_ities_short$Price)
 
 z <- mean(X_ities_short$Price)
