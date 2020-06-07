@@ -1,3 +1,5 @@
+#Create a new variable LineItem_LongName coded as 1 if the length of LineItem is greater than the mean, otherwise 0.  
+
 library(magrittr)
 
 library(dplyr) 
