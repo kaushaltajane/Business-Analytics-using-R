@@ -1,6 +1,0 @@
-
-
-
-library(plyr)
-
-head(arrange(X_ities_short,desc(Quantity)), n = 10)
